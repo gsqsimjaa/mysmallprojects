@@ -1,0 +1,1 @@
+So this was my first Python "project". I had some issues, because I didn't really understand the Syntax of the if-clause. But now, I think its finished. Make sure to leave some suggestions to improve the project and my skills.
